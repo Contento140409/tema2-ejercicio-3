@@ -1,0 +1,36 @@
+body{
+    /*background-color: rgb(26, 4, 151);*/
+    background-image: url(imagenes/fondo\ pink\ floy\ nuevo.jpg);
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    background-color: rgb(7, 219, 226);
+    text-align: center;
+    border: 5px solid blue;
+    padding: 10px;
+}
+h2{
+    color:blueviolet;
+    text-align: center;
+    font-style: italic;
+    text-decoration:underline;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+li{
+    border: 5px solid red;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    display: inline-block;
+    margin: 5px;
+}
+a{
+    color:brown;
+    font-weight: bold;
+    font-size:larger;
+
+}
